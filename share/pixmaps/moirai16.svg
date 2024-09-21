@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+	<title>moirai</title>
+	<defs>
+		<image  width="12" height="12" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAMCAMAAABhq6zVAAAAAXNSR0IB2cksfwAAAWtQTFRFAAAABRUfAxQeAhQfAhMfAxQfAhQfBBUfEhsfBBQeAhMfAhQfDSEnEikoBxwhAhQgAhMfBBQgBBQfAhQfAxUhITQ4T2pVVHhSMlY1DSYhARMfBRYgAhMfBBYiRFhSSmRROFk8OmI3MFQ0M1g0EC0gAhQgAxMfBRQgAhQfLkY+U3pOT3dKMlU2JUwlOlw+TXZHKFYlCygcARMfBBUgWIRQX5RPTnxHV4tKRG5BVohKVIRLRoE3FkkVAxQgN103OWM1ID8rKkwxOGM0IkAtKkswLFkqDzkYBBUiI0cmLlsmGDgiDCMiJU0lBxwgIkYlHEobDC8aCRYhAhQgDiglMGlCJVE8HT87JlJBFDc1HlE4E0IrBRwfAhQgBBUgAhMgDSYrJVFFMGhSJGBMIl5MFUE7BBkjBBUgBhUgAxQgAxUhCCAnDi4uDjQyCSgrBR0lAhMfAhQfBhUhBhYgBBQgAhMfARMfAhMfAxUgBRYh74c5VQAAAHl0Uk5TABhRg5J7QxIBWuH8////+rxMJOr/////////GsL///////////+vQP/////////////+f////////////4n///////////9i////////////EO7////////////jZf//////////VQ6r/f//////8KAKCFCPmYtBBkQv6fIAAABQSURBVHicY2RgYGCEgJ8MjAwcjDDwnpFBCMb+IMjIIMOIAOpIbEbjT/ww5ktG2xeSMM59Rvd7yjDOVcZAZD0MsTDWVh9GhnRkGYYiMAkkOgDc4A0ie3+uigAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+	</style>
+	<use id="Background" href="#img1" x="2" y="2"/>
+</svg>

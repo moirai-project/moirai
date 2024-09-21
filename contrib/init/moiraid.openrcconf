@@ -1,0 +1,33 @@
+# /etc/conf.d/moiraid: config file for /etc/init.d/moiraid
+
+# Config file location
+#MOICOIND_CONFIGFILE="/etc/moirai/moirai.conf"
+
+# What directory to write pidfile to?  (created and owned by $MOICOIND_USER)
+#MOICOIND_PIDDIR="/var/run/moiraid"
+
+# What filename to give the pidfile
+#MOICOIND_PIDFILE="${MOICOIND_PIDDIR}/moiraid.pid"
+
+# Where to write moiraid data (be mindful that the blockchain is large)
+#MOICOIND_DATADIR="/var/lib/moiraid"
+
+# User and group to own moiraid process
+#MOICOIND_USER="moirai"
+#MOICOIND_GROUP="moirai"
+
+# Path to moiraid executable
+#MOICOIND_BIN="/usr/bin/moiraid"
+
+# Nice value to run moiraid under
+#MOICOIND_NICE=0
+
+# Additional options (avoid -conf and -datadir, use flags above)
+MOICOIND_OPTS="-disablewallet"
+
+# The timeout in seconds OpenRC will wait for moiraid to terminate
+# after a SIGTERM has been raised.
+# Note that this will be mapped as argument to start-stop-daemon's
+# '--retry' option, which means you can specify a retry schedule
+# here. For more information see man 8 start-stop-daemon.
+MOICOIND_SIGTERM_TIMEOUT=60

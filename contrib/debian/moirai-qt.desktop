@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=Moirai Core
+Comment=Connect to the Moirai P2P Network
+Comment[de]=Verbinde mit dem Moirai peer-to-peer Netzwerk
+Comment[fr]=Moirai, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Moirai, eşten eşe kriptografik sanal para birimi
+Exec=moirai-qt %u
+Terminal=false
+Type=Application
+Icon=moirai128
+MimeType=x-scheme-handler/moirai;
+Categories=Office;Finance;

@@ -1,0 +1,6 @@
+usr/local/bin/moirai-qt usr/bin
+share/pixmaps/moirai32.xpm usr/share/pixmaps
+share/pixmaps/moirai16.xpm usr/share/pixmaps
+share/pixmaps/moirai128.png usr/share/pixmaps
+debian/moirai-qt.desktop usr/share/applications
+debian/moirai-qt.protocol usr/share/kde4/services/
